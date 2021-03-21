@@ -1,0 +1,8 @@
+author: XNonymous
+name: Essentials
+version: "1.0"
+main: de.xnonymous.essentials.Main
+api-version: 1.13
+description: System.
+depend:
+  - ProtocolLib

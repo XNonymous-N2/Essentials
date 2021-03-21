@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="IntelliGuard" name="Obfuscation">
+      <configuration>
+        <option name="yGuardJar" value="D:\Code\yGuard\yGuard\lib\yguard-3.0.0.jar" />
+        <option name="mainclass" value="de.xnonymous.essentials.Main" />
+        <option name="conservemanifest" value="true" />
+        <option name="namingScheme" value="best" />
+        <option name="namingSafety" value="legal" />
+        <option name="runtimevisibleannotations" value="false" />
+        <option name="runtimevisibleparameterannotations" value="false" />
+        <option name="runtimeinvisibleannotations" value="false" />
+        <option name="runtimeinvisibleparameterannotations" value="false" />
+      </configuration>
+    </facet>
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+</module>
